@@ -1,0 +1,25 @@
+{
+  "name": "pe-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LishuGupta652/pe-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LishuGupta652/pe-node/issues"
+  },
+  "homepage": "https://github.com/LishuGupta652/pe-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
